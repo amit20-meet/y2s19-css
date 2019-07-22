@@ -1,0 +1,28 @@
+#firstinf{
+	color: darkblue;
+	width: 400px;
+	position: relative;
+	left: 700px;
+	padding-left: 50px;
+	padding-right: 50px; 
+}
+#pr-inf{
+	background-color: darkgreen; color: white; 
+	width: 250px;
+	position: relative;
+	left: 100px;
+	padding-left: 30px;
+	padding-right: 30px; 
+}
+#my-op{
+	width: 250px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: relative;
+	left: 800px;  
+}
+#why-d{
+	width: 700px:;
+	padding-right: 100px; 
+
+}
